@@ -1,0 +1,4 @@
+let numero(int) = 10;
+let texto(str) = "Hola desde Kat-lang!";
+print($numero);
+print($texto);
